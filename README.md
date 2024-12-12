@@ -21,4 +21,4 @@
 - Gestire: Permette all'utente di dare in presito/ritirare un libro presente nella biblioteca.
 
 ## LICENZA
-- MIT License
+This project is licensed under the terms of the [MIT License](https://github.com/Alvizero/Biblioteca/blob/main/LICENSE).
