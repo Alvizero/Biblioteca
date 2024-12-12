@@ -21,4 +21,4 @@
 - Gestire: Permette all'utente di dare in presito/ritirare un libro presente nella biblioteca.
 
 ## LICENZA
-- sourcecode free
+- MIT License
