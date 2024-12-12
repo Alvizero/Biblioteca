@@ -7,7 +7,7 @@
 ## Versione: 1.0
 
 ## Panoramica
-- Questo programma simula una biblioteca, permettendo all'utente di gestire una biblioteca con diverse funzionalità, tra cui p biblioteca con possibilita' di inserire, modificare, eliminare, ordinare o gestire un libro
+- Questo programma simula una biblioteca, permettendo all'utente di gestire una biblioteca con diverse funzionalità, tra cui biblioteca con possibilita' di inserire, modificare, eliminare, ordinare o gestire un libro
 
 ## Fuzionalità
 - Inserire: Permette all'utente di inserire un libro nella biblioteca.
